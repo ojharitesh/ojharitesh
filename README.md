@@ -21,7 +21,7 @@
 
 ### 🌐 Let’s Connect
 - 📨 riteshhojha@gmail.com
-- 💼 [LinkedIn][(https://www.linkedin.com/in/riteshojha)](https://www.linkedin.com/in/ritesh-ojha-785a93277/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ritesh-ojha-785a93277/)
 
 ---
 
