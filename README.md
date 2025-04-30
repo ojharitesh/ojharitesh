@@ -10,7 +10,7 @@ I enjoy turning ideas into real-world projects — whether it's connecting stude
 - **Areas:** Web Dev, Data Science, iOS Dev, Cybersecurity
 
 ### 🚀 Recent Projects
-- **SkillBridge** – A platform to connect students for research and collaboration (🏆 Hackathon Winner)
+- **SkillBridge** – A platform to connect students for research and collaboration (🏆 Hackathon Project)
 
 ### 📬 Let's Connect!
 - 📫 Email: riteshhojha@example.com
