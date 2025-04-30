@@ -1,37 +1,29 @@
-# 👋 Hi, I'm Ritesh Ojha!
+# 👋 Hey there, I'm Ritesh Ojha!
 
-I'm a Computer Science major at Allegheny College, originally from Nepal 🇳🇵. I’m passionate about building solutions that blend technology with community impact. My interests range from full-stack web development and cybersecurity to data analysis and iOS development.
+🎓 CS undergrad @ Allegheny College  
+💻 Builder of things that sometimes break (then I fix them)  
+🔒 Future Tech Bro 
 
-I enjoy turning ideas into real-world projects — whether it's connecting students through collaborative platforms or tutoring local kids about my culture and language. I'm currently involved in several campus organizations and work part-time as an IT Help Desk Assistant and CES Office Assistant.
+---
 
-### 🔧 Tech Stack
-- **Languages:** Python, C++, HTML/CSS, JavaScript, Swift (beginner)
-- **Tools:** Git, VS Code, Xcode, Linux, Figma
-- **Areas:** Web Dev, Data Science, iOS Dev, Cybersecurity
+### ⚙️ Tech I Work With
+- **Languages:** Python, C++, HTML/CSS, JavaScript, (hello, Swift 👋)
+- **Tools I Trust:** Git, Xcode, VS Code, Linux, Flask, Figma
+- **Current Interests:** Web apps, cybersecurity, data viz, mobile dev
 
-### 🚀 Recent Projects
-- **SkillBridge** – A platform to connect students for research and collaboration (🏆 Hackathon Project)
+---
 
-### 📬 Let's Connect!
-- 📫 Email: riteshhojha@example.com
+### 🎯 Goals on the Horizon
+- 🔐 Learn more about OS and security systems
+- 🤝 Contribute to open-source or collab on a cool research idea
+
+---
+
+### 🌐 Let’s Connect
+- 📨 riteshhojha@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/riteshojha)
 
 ---
 
-💡 *Always learning. Always building. Always growing.*
-
-
-<!--
-**ojharitesh/ojharitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Always down to debug, collaborate, or brainstorm the next big idea.  
+🧠 Motto: *Code. Break. Fix. Repeat.*
