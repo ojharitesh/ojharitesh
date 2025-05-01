@@ -1,5 +1,5 @@
 # About Me:
-👋 Hey Everyone, I'm Ritesh Ojha!<br>🎓 CS undergrad @ Allegheny College'28<br>💻 Builder of things that sometimes break (then I fix them)<br>🔒 Future Tech Bro<br><br>
+👋 Hey Everyone, I'm Ritesh Ojha!<br>🎓 CS undergrad @ Allegheny College'28<br>💻 Builder of things that sometimes break (then I fix them)
 
 
 ## 🌐 Socials:
